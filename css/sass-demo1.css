@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, serif;
+}
+
+h2 {
+  color: #3046C5;
+}
+
+header h2 {
+  color: #CEC8FF;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+/*# sourceMappingURL=sass-demo1.css.map */
