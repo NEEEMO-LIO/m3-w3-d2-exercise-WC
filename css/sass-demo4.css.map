@@ -1,1 +1,10 @@
-{"version":3,"sourceRoot":"","sources":["reset.scss","sass-demo4.scss"],"names":[],"mappings":"AAAA;AAAA;AAAA;AAAA;EAIE;EACA;;;ACHF;EACE;EACA;EACA","file":"sass-demo4.css"}
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,IAAI;AACJ,IAAI;AACJ,EAAE;AACF,EAAE,CAAC;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACX;;ADJD,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,qBAAqB;EAClC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,GAAG;CACX",
+    "sources": [
+        "sass-demo4.scss",
+        "reset.scss"
+    ],
+    "names": [],
+    "file": "sass-demo4.css"
+}

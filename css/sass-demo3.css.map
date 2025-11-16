@@ -1,1 +1,9 @@
-{"version":3,"sourceRoot":"","sources":["sass-demo3.scss"],"names":[],"mappings":"AAOE;EANE;EACA;EACA;EACA;EAKA","file":"sass-demo3.css"}
+{
+    "version": 3,
+    "mappings": "AAOE,AAAA,OAAO,CAAC;EANN,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,cAAc;EAKtB,gBAAgB,EAAE,KAAK;CACxB",
+    "sources": [
+        "sass-demo3.scss"
+    ],
+    "names": [],
+    "file": "sass-demo3.css"
+}

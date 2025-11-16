@@ -15,8 +15,8 @@ header h2 {
 }
 
 .site-footer {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#CEC8FF), to(white));
   background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0;
 }
-
 /*# sourceMappingURL=sass-demo1.css.map */
